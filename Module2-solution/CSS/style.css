@@ -1,1 +1,22 @@
+/*true or false
+max-width
+min-width
+orientation
+screen
+print
+*/
+p {
 
+} /*base stylyes*/
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991){
+
+}
+
+@media (max-width: 767px) {
+
+}
