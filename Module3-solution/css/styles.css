@@ -1,0 +1,19 @@
+.container{
+	background-color: #614051;
+	color: #FFFFFF;
+}
+
+.round {
+	border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;	
+}
+
+div.text-center {
+	font-weight: 900;
+	font-size: 1.5em;
+}
+h1 {
+	font-weight: 900;
+}
+

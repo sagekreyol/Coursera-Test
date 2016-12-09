@@ -62,7 +62,7 @@ div.item{
     border: 1px solid black;
     position: relative;
     background-color: #E6E6FA;
-    
+    margin: 0.75%;
   }
   .col-lg-1 {
     width: 8.33%;
@@ -74,7 +74,7 @@ div.item{
     width: 25%;
   }
   .col-lg-4 {
-    width: 33.33%;
+    width: 31.833%;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -109,7 +109,7 @@ div.item{
     border: 1px solid black;
     position: relative;
     background-color: #E6E6FA;
-    padding: 10px;
+    margin: 0.75%;
   }
   .col-md-1 {
     width: 8.33%;
@@ -121,7 +121,7 @@ div.item{
     width: 25%;
   }
   .col-md-4 {
-    width: 33.33%;
+    width: 31.833%;
   }
   .col-md-5 {
     width: 41.66%;
@@ -156,7 +156,7 @@ div.item{
     border: 1px solid black;
     position: relative;
     background-color: #E6E6FA;
-    margin:10px;
+    margin: 0.75%;
   }
   .col-sm-1 {
     width: 8.33%;
@@ -168,7 +168,7 @@ div.item{
     width: 25%;
   }
   .col-sm-4 {
-    width: 33.33%;
+    width: 31.833%;
   }
   .col-sm-5 {
     width: 41.66%;
